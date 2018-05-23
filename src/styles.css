@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import 'bootstrap/dist/css/bootstrap.min.css'; */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 720px;
+  /* background-color: #aaa; */
+}
+.title {
+  text-align: center;
+}
+.content {
+  margin-top: 50px;
+}
+.center {
+  text-align: center;
+}
+.ngx-pagination {
+  font-size: 18px !important;
+}
+.ngx-pagination > li {
+  border-radius: 5px !important;
+}
+.total-records {
+  margin: 5px;
+  font-size: 18px;
+}
+
+
